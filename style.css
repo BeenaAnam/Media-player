@@ -72,12 +72,11 @@ h3,p{
 }
 
 #wave{
-    height: 150px;
-    margin-left: 20px;
+    height: 130px;
+    /* margin-left: 20px; */
 }
 audio {
     height: 40px;
-    margin-top: 10px;
     border-radius: 10px;
 } 
 /* Styling for default audio player */
